@@ -4,7 +4,7 @@ Thumbs.db
 .classpath
 .project
 .settings
-.idea
+/.idea/*
 */*.iml
 *.iml
 */bin/
